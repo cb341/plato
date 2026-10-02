@@ -1,0 +1,8 @@
+# Keep build inputs and development artifacts out of the generated site.
+exclude:
+  - "*.py"
+  - "*.pyc"
+  - __pycache__/
+  - src/
+  - README.md
+  - .DS_Store

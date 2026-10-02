@@ -1,3 +1,41 @@
-Texts (*.html, src/): CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0/
-Source: Perseus Digital Library, https://github.com/PerseusDL/canonical-greekLit
-Translations: H. N. Fowler, R. G. Bury (Loeb Classical Library). Greek: J. Burnet.
+License and attribution notice
+==============================
+
+The source XML and the derived Plato text pages in this repository are
+redistributed under the Creative Commons Attribution-ShareAlike 4.0
+International license (CC BY-SA 4.0):
+
+https://creativecommons.org/licenses/by-sa/4.0/
+
+The complete legal text is available at:
+
+https://creativecommons.org/licenses/by-sa/4.0/legalcode.en
+
+Source data
+-----------
+
+Perseus Digital Library, canonical-greekLit, Plato (tlg0059):
+
+https://github.com/PerseusDL/canonical-greekLit/tree/master/data/tlg0059
+
+Upstream license file:
+
+https://github.com/PerseusDL/canonical-greekLit/blob/master/license.md
+
+The XML headers credit the English translations to Harold North Fowler,
+Robert Gregg Bury (also R. G. Bury), and Walter Rangeley Maitland Lamb. They
+credit the Greek edition to John Burnet, Platonis Opera, Clarendon Press.
+
+Changes
+-------
+
+This repository converts the source TEI XML into a simplified HTML reading
+edition. The build removes notes and most TEI markup, aligns English and Greek
+by Stephanus section, groups dialogues on the index, and adds navigation and
+presentation. The wording of the Perseus texts is not intentionally revised.
+
+This is an unofficial, independently generated mirror. The texts,
+translations, and scholarly editions are not the work of this repository's
+maintainer. No affiliation with or endorsement by the Perseus Digital Library,
+Tufts University, Harvard University Press, the Loeb Classical Library, or any
+author, editor, translator, publisher, or data provider is implied.
